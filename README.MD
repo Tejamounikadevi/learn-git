@@ -8,3 +8,4 @@ This is the first commit from main branch
 ### rebase
 * This is the another type of merge function
 * Developing still
+* Now development is completed
